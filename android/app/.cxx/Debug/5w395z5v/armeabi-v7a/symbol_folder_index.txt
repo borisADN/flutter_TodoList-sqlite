@@ -1,0 +1,1 @@
+C:\Users\Lenovo-Ideapad\Desktop\FLUTTER\A GITER\flutter_TodoList-sqlite\build\app\intermediates\cxx\Debug\5w395z5v\obj\armeabi-v7a
